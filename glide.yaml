@@ -9,7 +9,7 @@ import:
 - package: github.com/go-logfmt/logfmt
   version: ^0.3.0
 - package: github.com/gogo/protobuf
-  version: ^1.0.0
+  version: ^3.2.0
   subpackages:
   - gogoproto
   - proto

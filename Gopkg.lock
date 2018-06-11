@@ -49,7 +49,7 @@
     "protoc-gen-gogo/descriptor"
   ]
   revision = "1adfc126b41513cc696b209667c8656ea7aac67c"
-  version = "v1.0.0"
+  version = "v3.2.0"
 
 [[projects]]
   branch = "master"
@@ -215,6 +215,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "c33ff784e40965e1cd0ec6232b43e379c6608cb41a9c5c707247742b68c906fb"
+  inputs-digest = "e235538e5e32c8a44a1fba806249a44d3464c718abe7f0f8be62f41fd35e5174"
   solver-name = "gps-cdcl"
   solver-version = 1
